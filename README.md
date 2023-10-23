@@ -14,6 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```
+
+System.out.println("Hello World!");                                      Console.WriteLine("Hello World!");
+                                      console.log("Hello World!");                        
+ echo "Hello World!";                                         
+       print("Hello World!")                                        cout << "Hello World!"
+                                                                                                <h1>"Hello World!"</h1>
+                                      printf("Hello World!");
+          echo "Hello World!"                                            fmt.Println("Hello World!");
+++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
+
+```
+
+
 - I'm currently reviewing: [Git](learn.gitkraken.com/courses/git-foundations)
 - Current video game: Splatoon3
 
