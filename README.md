@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ```
 
-System.out.println("Hello World!");                                      Console.WriteLine("Hello World!");
+System.out.println("Hello World!");                                  Console.WriteLine("Hello World!");
                                       console.log("Hello World!");                        
  echo "Hello World!";                                         
        print("Hello World!")                                        cout << "Hello World!"
-                                                                                                <h1>"Hello World!"</h1>
+                                                                             <h1>"Hello World!"</h1>
                                       printf("Hello World!");
           echo "Hello World!"                                            fmt.Println("Hello World!");
 ++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
