@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### The Hello World Wall
 ```
 
 System.out.println("Hello World!");                                  Console.WriteLine("Hello World!");
@@ -26,10 +27,11 @@ System.out.println("Hello World!");                                  Console.Wri
 ++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
 
 ```
+Do you recognize all of them?
 
-
-- I'm currently reviewing: [Git](learn.gitkraken.com/courses/git-foundations)
-- Current video game: Splatoon3
+- I've Finished this course: [Git](learn.gitkraken.com/courses/git-foundations)
+- [My LinkedIn](https://www.linkedin.com/in/hunter-zhuang-863662226/)
+- Current favorite video game: [Splatoon3](https://splatoon.nintendo.com/)
 
 #### Check out my Holopin Badges!
 [![An image of @101zh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/101zh)](https://holopin.io/@101zh)
