@@ -1,20 +1,6 @@
-### Hi there 👋
-
-<!--
-**101zh/101zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi There! 👋
 #### The Hello World Wall
+Do you Recognize all the languages?
 ```
 
 System.out.println("Hello World!");                                  Console.WriteLine("Hello World!");
@@ -27,7 +13,10 @@ System.out.println("Hello World!");                                  Console.Wri
 ++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
 
 ```
-Do you recognize all of them?
+<p align="center"><b>Visitors!</b></p>
+<p align="center">
+  <img src="https://moe-counter-grbnb.vercel.app/get/@101zh?theme=rule34" alt="Visitors" />
+</p>
 
 - I've Finished this course: [Git](learn.gitkraken.com/courses/git-foundations)
 - [My LinkedIn](https://www.linkedin.com/in/hunter-zhuang-863662226/)
