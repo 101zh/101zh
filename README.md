@@ -13,10 +13,6 @@ System.out.println("Hello World!");                                  Console.Wri
 ++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
 
 ```
-<p align="center"><b>Visitors!</b></p>
-<p align="center">
-  <img src="https://moe-counter-grbnb.vercel.app/get/@101zh?theme=rule34" alt="Visitors" />
-</p>
 
 - I've Finished this course: [Git](learn.gitkraken.com/courses/git-foundations)
 - [My LinkedIn](https://www.linkedin.com/in/hunter-zhuang-863662226/)
