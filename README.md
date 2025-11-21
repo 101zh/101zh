@@ -15,7 +15,6 @@ System.out.println("Hello World!");                                  Console.Wri
 ```
 
 - I've Finished this course: [Git](learn.gitkraken.com/courses/git-foundations)
-- [My LinkedIn](https://www.linkedin.com/in/hunter-zhuang-863662226/)
 - Current favorite video game: [Splatoon3](https://splatoon.nintendo.com/)
 
 #### Check out my Holopin Badges!
